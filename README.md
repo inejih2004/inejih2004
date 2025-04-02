@@ -33,8 +33,8 @@ I am a **Developer, Content Creator, and Tech Enthusiast** passionate about buil
 ## 🎥 Tech Content & Education  
 I share programming insights, tutorials, and development tips on my **YouTube channel** and social media. My goal is to make tech education fun, accessible, and engaging!  
 
-📌 Ticktock: Learn English with Inejih:https://www.tiktok.com/@english.with.inejih?is_from_webapp=1&sender_device=pc 
-📌 LinkedIn:(https://www.linkedin.com/in/inejih-sid-mhamed-1ab1272b3/ 
-📌 Portfolio Website: https://github.com/inejih2004
+📌 Ticktock: Learn English with Inejih:https://www.tiktok.com/@english.with.inejih?is_from_webapp=1&sender_device=pc <br>
+📌 LinkedIn:(https://www.linkedin.com/in/inejih-sid-mhamed-1ab1272b3/ <br>
+📌 Portfolio Website: https://github.com/inejih2004 <br>
 
 ---  
